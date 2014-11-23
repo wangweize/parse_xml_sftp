@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+	<element name="post">
+		<complexType>
+			<sequence>
+				<element name="id" type="long"></element>
+				<element name="tiebaName" type="string"></element>
+				<element name="url" type="string"></element>
+				<element name="title" type="string"></element>
+				<element name="author" type="string"></element>
+				<element name="ip" type="string"></element>
+			</sequence>
+		</complexType>
+	</element>
+</schema>  

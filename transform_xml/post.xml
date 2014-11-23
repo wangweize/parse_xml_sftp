@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">  
+  <id>0</id>  
+  <tiebaName>tiebaName</tiebaName>  
+  <url>url</url>  
+  <title>title</title>  
+  <author>author</author>  
+  <ip>ip</ip>  
+  <ip>ip</ip> 
+</post> 
