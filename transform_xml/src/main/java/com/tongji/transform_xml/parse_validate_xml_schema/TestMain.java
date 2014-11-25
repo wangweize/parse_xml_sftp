@@ -1,4 +1,4 @@
-package com.tongji.transform_xml.validate_xml_schema;
+package com.tongji.transform_xml.parse_validate_xml_schema;
 
 import java.io.File;
 import java.io.IOException;
